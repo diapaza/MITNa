@@ -1,0 +1,10 @@
+model_path: yolov8n.pt
+confidence_threshold: 0.5
+iou_threshold: 0.45
+speed_limit_kmh: 50.0
+parking_px_threshold: 3.0
+parking_frames: 30
+track_max_lost: 15
+calibration_frame: 5
+speed_smoothing_window: 8
+show_fps: true
