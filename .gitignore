@@ -216,7 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-.mp4
-.png
-.bat
-.csv
+
+# Others
+*.mp4
+*.png
+*.bat
+*.csv
